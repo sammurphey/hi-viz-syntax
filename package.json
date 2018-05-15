@@ -1,17 +1,17 @@
 {
   "name": "hi-viz-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Oversaturated neons with a cool greyscale.",
   "keywords": [
     "syntax",
     "theme",
-	"hi-viz",
-	"high-viz",
-	"high vizability",
-	"oversaturated",
-	"neon",
-	"bright"
+    "hi-viz",
+    "high-viz",
+    "high vizability",
+    "oversaturated",
+    "neon",
+    "bright"
   ],
   "repository": "https://github.com/sammurphey/hi-viz-syntax",
   "author": "Sam Murphey <weirdoonthebus@gmail.com>",
