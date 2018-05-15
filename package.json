@@ -13,7 +13,7 @@
 	"neon",
 	"bright"
   ],
-  "repository": "https://github.com/atom/hi-viz-syntax",
+  "repository": "https://github.com/sammurphey/hi-viz-syntax",
   "author": "Sam Murphey <weirdoonthebus@gmail.com>",
   "license": "MIT",
   "engines": {
